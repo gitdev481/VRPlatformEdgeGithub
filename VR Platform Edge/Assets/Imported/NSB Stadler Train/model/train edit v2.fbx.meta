@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 668731c5bfba31941a892f011684ca3d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: door_1
+    100002: door_1 10
+    100004: door_1 2
+    100006: door_1 3
+    100008: door_1 4
+    100010: door_1 5
+    100012: door_1 6
+    100014: door_1 7
+    100016: door_1 8
+    100018: door_1 9
+    100020: door_2
+    100022: door_2 10
+    100024: door_2 2
+    100026: door_2 3
+    100028: door_2 4
+    100030: door_2 5
+    100032: door_2 6
+    100034: door_2 7
+    100036: door_2 8
+    100038: door_2 9
+    100040: door_3
+    100042: door_3 10
+    100044: door_3 2
+    100046: door_3 3
+    100048: door_3 4
+    100050: door_3 5
+    100052: door_3 6
+    100054: door_3 7
+    100056: door_3 8
+    100058: door_3 9
+    100060: door_4
+    100062: door_4 10
+    100064: door_4 2
+    100066: door_4 3
+    100068: door_4 4
+    100070: door_4 5
+    100072: door_4 6
+    100074: door_4 7
+    100076: door_4 8
+    100078: door_4 9
+    100080: doors
+    100082: doors 10
+    100084: doors 2
+    100086: doors 3
+    100088: doors 4
+    100090: doors 5
+    100092: doors 6
+    100094: doors 7
+    100096: doors 8
+    100098: doors 9
+    100100: flirt_01
+    100102: flirt_01 2
+    100104: flirt_01_interior
+    100106: flirt_01_interior 2
+    100108: flirt_02
+    100110: flirt_02_interior 2
+    100112: flirt_03
+    100114: flirt_03_interior
+    100116: flirt_04
+    100118: flirt_04_interior
+    100120: flirt_boggi_01
+    100122: flirt_boggi_01 2
+    100124: flirt_boggi_01 3
+    100126: flirt_boggi_01 4
+    100128: flirt_boggi_02
+    100130: flirt_boggi_02 2
+    100132: flirt_boggi_02 3
+    100134: //RootNode
+    400000: door_1
+    400002: door_1 10
+    400004: door_1 2
+    400006: door_1 3
+    400008: door_1 4
+    400010: door_1 5
+    400012: door_1 6
+    400014: door_1 7
+    400016: door_1 8
+    400018: door_1 9
+    400020: door_2
+    400022: door_2 10
+    400024: door_2 2
+    400026: door_2 3
+    400028: door_2 4
+    400030: door_2 5
+    400032: door_2 6
+    400034: door_2 7
+    400036: door_2 8
+    400038: door_2 9
+    400040: door_3
+    400042: door_3 10
+    400044: door_3 2
+    400046: door_3 3
+    400048: door_3 4
+    400050: door_3 5
+    400052: door_3 6
+    400054: door_3 7
+    400056: door_3 8
+    400058: door_3 9
+    400060: door_4
+    400062: door_4 10
+    400064: door_4 2
+    400066: door_4 3
+    400068: door_4 4
+    400070: door_4 5
+    400072: door_4 6
+    400074: door_4 7
+    400076: door_4 8
+    400078: door_4 9
+    400080: doors
+    400082: doors 10
+    400084: doors 2
+    400086: doors 3
+    400088: doors 4
+    400090: doors 5
+    400092: doors 6
+    400094: doors 7
+    400096: doors 8
+    400098: doors 9
+    400100: flirt_01
+    400102: flirt_01 2
+    400104: flirt_01_interior
+    400106: flirt_01_interior 2
+    400108: flirt_02
+    400110: flirt_02_interior 2
+    400112: flirt_03
+    400114: flirt_03_interior
+    400116: flirt_04
+    400118: flirt_04_interior
+    400120: flirt_boggi_01
+    400122: flirt_boggi_01 2
+    400124: flirt_boggi_01 3
+    400126: flirt_boggi_01 4
+    400128: flirt_boggi_02
+    400130: flirt_boggi_02 2
+    400132: flirt_boggi_02 3
+    400134: //RootNode
+    2100000: door_boogi
+    2100002: flirt_04
+    2100004: flirt_04_interior
+    2100006: flirt_03
+    2100008: flirt_03_interior
+    2100010: flirt_02
+    2100012: flirt_02_interior
+    2100014: flirt_01
+    2100016: flirt_01_interior
+    2300000: door_1
+    2300002: door_1 10
+    2300004: door_1 2
+    2300006: door_1 3
+    2300008: door_1 4
+    2300010: door_1 5
+    2300012: door_1 6
+    2300014: door_1 7
+    2300016: door_1 8
+    2300018: door_1 9
+    2300020: door_2
+    2300022: door_2 10
+    2300024: door_2 2
+    2300026: door_2 3
+    2300028: door_2 4
+    2300030: door_2 5
+    2300032: door_2 6
+    2300034: door_2 7
+    2300036: door_2 8
+    2300038: door_2 9
+    2300040: door_3
+    2300042: door_3 10
+    2300044: door_3 2
+    2300046: door_3 3
+    2300048: door_3 4
+    2300050: door_3 5
+    2300052: door_3 6
+    2300054: door_3 7
+    2300056: door_3 8
+    2300058: door_3 9
+    2300060: door_4
+    2300062: door_4 10
+    2300064: door_4 2
+    2300066: door_4 3
+    2300068: door_4 4
+    2300070: door_4 5
+    2300072: door_4 6
+    2300074: door_4 7
+    2300076: door_4 8
+    2300078: door_4 9
+    2300080: flirt_01
+    2300082: flirt_01 2
+    2300084: flirt_01_interior
+    2300086: flirt_01_interior 2
+    2300088: flirt_02
+    2300090: flirt_02_interior 2
+    2300092: flirt_03
+    2300094: flirt_03_interior
+    2300096: flirt_04
+    2300098: flirt_04_interior
+    2300100: flirt_boggi_01
+    2300102: flirt_boggi_01 2
+    2300104: flirt_boggi_01 3
+    2300106: flirt_boggi_01 4
+    2300108: flirt_boggi_02
+    2300110: flirt_boggi_02 2
+    2300112: flirt_boggi_02 3
+    3300000: door_1
+    3300002: door_1 10
+    3300004: door_1 2
+    3300006: door_1 3
+    3300008: door_1 4
+    3300010: door_1 5
+    3300012: door_1 6
+    3300014: door_1 7
+    3300016: door_1 8
+    3300018: door_1 9
+    3300020: door_2
+    3300022: door_2 10
+    3300024: door_2 2
+    3300026: door_2 3
+    3300028: door_2 4
+    3300030: door_2 5
+    3300032: door_2 6
+    3300034: door_2 7
+    3300036: door_2 8
+    3300038: door_2 9
+    3300040: door_3
+    3300042: door_3 10
+    3300044: door_3 2
+    3300046: door_3 3
+    3300048: door_3 4
+    3300050: door_3 5
+    3300052: door_3 6
+    3300054: door_3 7
+    3300056: door_3 8
+    3300058: door_3 9
+    3300060: door_4
+    3300062: door_4 10
+    3300064: door_4 2
+    3300066: door_4 3
+    3300068: door_4 4
+    3300070: door_4 5
+    3300072: door_4 6
+    3300074: door_4 7
+    3300076: door_4 8
+    3300078: door_4 9
+    3300080: flirt_01
+    3300082: flirt_01 2
+    3300084: flirt_01_interior
+    3300086: flirt_01_interior 2
+    3300088: flirt_02
+    3300090: flirt_02_interior 2
+    3300092: flirt_03
+    3300094: flirt_03_interior
+    3300096: flirt_04
+    3300098: flirt_04_interior
+    3300100: flirt_boggi_01
+    3300102: flirt_boggi_01 2
+    3300104: flirt_boggi_01 3
+    3300106: flirt_boggi_01 4
+    3300108: flirt_boggi_02
+    3300110: flirt_boggi_02 2
+    3300112: flirt_boggi_02 3
+    4300000: flirt_boggi_02
+    4300002: flirt_boggi_02 3
+    4300004: flirt_boggi_02 2
+    4300006: flirt_boggi_01 3
+    4300008: flirt_boggi_01
+    4300010: flirt_boggi_01 4
+    4300012: flirt_boggi_01 2
+    4300014: flirt_04
+    4300016: flirt_04_interior
+    4300018: flirt_03
+    4300020: flirt_03_interior
+    4300022: flirt_02
+    4300024: flirt_02_interior 2
+    4300026: flirt_01 2
+    4300028: flirt_01_interior 2
+    4300030: flirt_01
+    4300032: flirt_01_interior
+    4300034: door_4 7
+    4300036: door_3 8
+    4300038: door_2 10
+    4300040: door_1 10
+    4300042: door_4 9
+    4300044: door_3 7
+    4300046: door_2 8
+    4300048: door_1 9
+    4300050: door_4 10
+    4300052: door_3 10
+    4300054: door_2 7
+    4300056: door_1 7
+    4300058: door_4 8
+    4300060: door_3 9
+    4300062: door_2 9
+    4300064: door_1 8
+    4300066: door_4 6
+    4300068: door_3 6
+    4300070: door_2 5
+    4300072: door_1 6
+    4300074: door_4 3
+    4300076: door_3 4
+    4300078: door_2 2
+    4300080: door_1 3
+    4300082: door_4
+    4300084: door_3 5
+    4300086: door_2 3
+    4300088: door_1 2
+    4300090: door_4 4
+    4300092: door_3 3
+    4300094: door_2
+    4300096: door_1
+    4300098: door_4 5
+    4300100: door_3
+    4300102: door_2 6
+    4300104: door_1 5
+    4300106: door_4 2
+    4300108: door_3 2
+    4300110: door_2 4
+    4300112: door_1 4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

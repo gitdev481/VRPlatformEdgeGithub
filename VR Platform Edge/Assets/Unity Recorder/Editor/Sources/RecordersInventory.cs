@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
-using UnityEditor.Recorder.FrameCapturer;
+
 
 namespace UnityEditor.Recorder
 {
@@ -84,18 +84,19 @@ namespace UnityEditor.Recorder
                         s_Recorders[typeof(AnimationRecorderSettings)],
                         s_Recorders[typeof(MovieRecorderSettings)],
                         s_Recorders[typeof(ImageRecorderSettings)],
-                        s_Recorders[typeof(GIFRecorderSettings)]
+                    //    s_Recorders[typeof(GIFRecorderSettings)]
                     };
                 }
 
                 if (s_LegacyRecorderInfos == null)
                 {
+                    return;
                     s_LegacyRecorderInfos = new HashSet<RecorderInfo>
                     {
-                        s_Recorders[typeof(MP4RecorderSettings)],
-                        s_Recorders[typeof(EXRRecorderSettings)],
-                        s_Recorders[typeof(PNGRecorderSettings)],
-                        s_Recorders[typeof(WEBMRecorderSettings)]
+                     //   s_Recorders[typeof(MP4RecorderSettings)],
+                     //   s_Recorders[typeof(EXRRecorderSettings)],
+                       // s_Recorders[typeof(PNGRecorderSettings)],
+                       // s_Recorders[typeof(WEBMRecorderSettings)]
                     };
                 }
             }
